@@ -69,7 +69,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "android-2.jpg"
 heroTitle: "GDG <typeout> AndroidFest 2018"
-eventDate: "Setembro de 2018"
+eventDate: "Outubro de 2018"
 typeoutTextValues: '"", "Campinas"'
 typeoutFallback: "Campinas"
 heroButtons:
