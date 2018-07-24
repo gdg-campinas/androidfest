@@ -51,4 +51,13 @@ support:
     thumbnailUrl: DouglasDrummond.jpg
     social: 
       - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
+  -
+    id: 6
+    name: Ramon
+    surname: Rabello
+    title: Colaborador
+    thumbnailUrl: RamonRabello.jpg
+    social:
+      - name: linkedin
+        link: https://www.linkedin.com/in/ramonrabello/?locale=en_US
       
