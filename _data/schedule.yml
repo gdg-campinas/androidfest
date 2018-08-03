@@ -2,8 +2,8 @@
   date: "2017-09-26"
   dateReadable: "26 de Setembro"
   tracks: 
-    - {title: "Solution Talks", color: "#90be4e"}
-    - {title: "Tech Talks", color: "#03a9f4"}
+    - {title: "Next Level", color: "#90be4e"}
+    - {title: "Early Stage", color: "#03a9f4"}
   timeslots:
     - { 
       startTime: "08:40",
@@ -23,7 +23,7 @@
     - { 
       startTime: "10:20",
       endTime: "11:05",
-      sessionIds: [401, 402]
+      sessionIds: [9999, 9999]
     }
     - { 
       startTime: "11:05",
@@ -33,17 +33,17 @@
     - { 
       startTime: "12:05",
       endTime: "12:50",
-      sessionIds: [501, 502]
+      sessionIds: [9999, 9999]
     }
     - { 
       startTime: "12:50",
       endTime: "13:35",
-      sessionIds: [701, 702]
+      sessionIds: [9999, 9999]
     }
     - { 
       startTime: "13:35",
       endTime: "14:20",
-      sessionIds: [801, 802]
+      sessionIds: [9999, 9999]
     }
     - { 
       startTime: "14:20",
@@ -53,12 +53,12 @@
     - { 
       startTime: "14:40",
       endTime: "15:25",
-      sessionIds: [1001, 1002]
+      sessionIds: [9999, 9999]
     }
     - { 
       startTime: "15:25",
       endTime: "16:10",
-      sessionIds: [1101, 1102]
+      sessionIds: [9999, 9999]
     }
     - { 
       startTime: "16:10",

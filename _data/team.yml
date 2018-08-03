@@ -60,4 +60,14 @@ support:
     social:
       - name: linkedin
         link: https://www.linkedin.com/in/ramonrabello/?locale=en_US
+
+host:
+  -
+    id: 7
+    name: "Douglas"
+    surname: "Drumond"
+    title: "Host da trilha Next Level"
+    thumbnailUrl: DouglasDrummond.jpg
+    social: 
+      - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
       

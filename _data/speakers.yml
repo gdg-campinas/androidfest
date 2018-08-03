@@ -1,0 +1,12 @@
+# Douglas Drumond
+- 
+  id: 001
+  name: "Douglas"
+  surname: "Drumond"
+  company: "99"
+  title: "Mobile Software Engineer"
+  bio: "Bacharel em Ciência da Computação pela Unicamp e Mobile Software Engineer III na 99. Trabalha com Android desde 2010, mas já teve experiência variada, de sistemas desktop a web, em empresas de diversos portes, desde startups de 3 funcionários, inclusive já tendo fundado e fechado a própria startup, a empresas maiores como Movile e IBM. Adora o ambiente dinâmico de startups e triunfa nele. Quando não está com uma câmera na mão, está lendo alguma coisa nerd."
+  thumbnailUrl: DouglasDrummond.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
