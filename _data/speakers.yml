@@ -9,4 +9,20 @@
   thumbnailUrl: DouglasDrummond.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/" }
+
+# Nelson Glauber de Vasconcelos Leal
+-
+  id: 002
+  name: "Nelson"
+  surname: "Glauber"
+  company: "Mokriya"
+  title: "Senior Android Developer"
+  bio: "Nelson Glauber é mestre em Engenharia de Software pelo Centro de Estudos e Sistemas Avançados do Recife (CESAR) e trabalha com desenvolvimento de software desde 2002. Atua como engenheiro de software especializado em projetos mobile desde 2006, e com Android desde 2009. Também é professor de tecnologias móveis em cursos de extensão e pós-graduação. Em 2014, foi nomeado pelo Google como primeiro Developer Expert de Android da América Latina. É autor do livro \"Dominando o Android\" publicado pela Novatec."
+  thumbnailUrl: NelsonGlauber.jpg
+  rockstar: true
+  social:
+    - { name: "twitter" , link: "https://twitter.com/nglauber" }
+    - { name: "github", link: "https://github.com/nglauber" }
+    - { name: "slideshare", link: "http://slideshare.com/nglauber" }
+    - { name: "gplus", link: "https://plus.google.com/+NelsonGlauber" }

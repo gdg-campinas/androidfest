@@ -50,6 +50,14 @@
   place: ""
   description: "A definir"
 
+-
+  id: 401
+  title: "Arquitetando seu aplicativo Android com o Jetpack"
+  description: "A cada dia a complexidade dos aplicativos mobile vêm crescendo e para atender essa demanda é essencial criar um software de qualidade, com uma arquitetura confiável, escalável e ao mesmo tempo flexível o suficiente para adicionar novas funcionalidades. O Jetpack é um conjunto de bibliotecas Android que ajudam o desenvolvedor a seguir as boas práticas do desenvolvimento de software, removendo o boilerplate de código e simplificando tarefas complexas. Nessa apresentação veremos as principais bibliotecas do Jetpack e como elas podem funcionar juntas para construir aplicativos organizados, eficientes e confiáveis."
+  subtype: presentation
+  speakers: [002]
+  complexity: Intermediário
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"
