@@ -22,7 +22,22 @@
   thumbnailUrl: NelsonGlauber.jpg
   rockstar: true
   social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/nglaubervasc/" }
     - { name: "twitter" , link: "https://twitter.com/nglauber" }
     - { name: "github", link: "https://github.com/nglauber" }
-    - { name: "slideshare", link: "http://slideshare.com/nglauber" }
-    - { name: "gplus", link: "https://plus.google.com/+NelsonGlauber" }
+    - { name: "google-plus", link: "https://plus.google.com/+NelsonGlauber" }
+    - { name: "site", link: "http://slideshare.com/nglauber" }    
+
+# Bira
+-
+  id: 003
+  name: "Ubiratan"
+  surname: "Soares"
+  company: "Stone Pagamentos"
+  title: "Lead Software Engineer"
+  bio: "Software Engineer. Curious guy. Messing with Android since 2010"
+  thumbnailUrl: UbiratanSoares.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/ubiratanfsoares/" }
+    - { name: "twitter" , link: "https://twitter.com/ubiratanfsoares" }

@@ -58,6 +58,14 @@
   speakers: [002]
   complexity: Intermediário
 
+-
+  id: 501
+  title: "Kotlin - Advanced Tricks"
+  description: "Nessa palestra, nós vamos explorar funcionalidades da linguagem Kotlin que você simplesmente não imaginava que eram possíveis e validar como elas podem nos ser úteis no dia-a-dia!"
+  subtype: presentation
+  speakers: [003]
+  complexity: Avançado
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"
