@@ -56,7 +56,7 @@
   description: "A cada dia a complexidade dos aplicativos mobile vêm crescendo e para atender essa demanda é essencial criar um software de qualidade, com uma arquitetura confiável, escalável e ao mesmo tempo flexível o suficiente para adicionar novas funcionalidades. O Jetpack é um conjunto de bibliotecas Android que ajudam o desenvolvedor a seguir as boas práticas do desenvolvimento de software, removendo o boilerplate de código e simplificando tarefas complexas. Nessa apresentação veremos as principais bibliotecas do Jetpack e como elas podem funcionar juntas para construir aplicativos organizados, eficientes e confiáveis."
   subtype: presentation
   speakers: [002]
-  complexity: Intermediário
+  complexity: Básico
 
 -
   id: 501
@@ -65,6 +65,14 @@
   subtype: presentation
   speakers: [003]
   complexity: Avançado
+
+-
+  id: 601
+  title: "Machine Learning em Apps Android com ML Kit"
+  description: "Nesta palestra iremos falar sobre o ML Kit, um SDK de Machine Learning lançado pelo Google durante o Google IO 18 e que promete facilitar que apps Android utilizem recursos como reconhecimento de imagens, respostas automáticas e modelos Tensorflow customizados. Vamos discutir as características do SDK e mostrar como ele pode ser integrado ao código de um app Android."
+  subtype: presentation
+  speakers: [004]
+  complexity: Intermediário  
 
 # -
 #   id: 002
