@@ -54,3 +54,16 @@
   thumbnailUrl: FelipePedroso.jpg
   rockstar: true
   social: []
+
+# Haldny Santos
+-
+  id: 005
+  name: "Haldny"
+  surname: "Santos"
+  company: "CESAR - Recife"
+  title: "Engenheiro de Software"
+  bio: "Haldny Santos tem 26 anos, é engenheiro de software do CESAR e bacharel em Sistemas de Informação pela Faculdade Joaquim Nabuco - Recife."
+  thumbnailUrl: HaldnySantos.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/haldny-santos-49466334" }

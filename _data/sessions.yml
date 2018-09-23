@@ -72,7 +72,16 @@
   description: "Nesta palestra iremos falar sobre o ML Kit, um SDK de Machine Learning lançado pelo Google durante o Google IO 18 e que promete facilitar que apps Android utilizem recursos como reconhecimento de imagens, respostas automáticas e modelos Tensorflow customizados. Vamos discutir as características do SDK e mostrar como ele pode ser integrado ao código de um app Android."
   subtype: presentation
   speakers: [004]
-  complexity: Intermediário  
+  complexity: Intermediário
+
+# Haldny Santos
+-
+  id: 701
+  title: "WorkManager  —  O que é?"
+  description: "Quem assistir essa talk conseguirá implementar tarefas em background utilizando a API do WorkManager, encadeando tarefas e escrevendo códigos mais fáceis de dar manutenção."
+  subtype: presentation
+  speakers: [005]
+  complexity: Básico
 
 # -
 #   id: 002
