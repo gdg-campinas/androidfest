@@ -111,6 +111,15 @@
   speakers: [008]
   complexity: Avançado
 
+# Paula Rosa
+-
+  id: 1101
+  title: "Otimizações de performance em Android: renderização"
+  description: "Quantas vezes precisamos ter layouts complexos na nossa aplicação, mas será que eles realmente estão performando de maneira adequada? Nesta palestra você irá conhecer algumas ferramentas de análise de performance que o ajudarão a identificar pontos de melhoria na performance da renderização."
+  subtype: presentation
+  speakers: [009]
+  complexity: Intermediário
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"

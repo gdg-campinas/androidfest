@@ -107,3 +107,16 @@
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/paulovsato/" }
+
+# Paula Rosa
+-
+  id: 009
+  name: "Paula Carolina"
+  surname: "da Rosa"
+  company: "Arctouch"
+  title: "Desenvolvedora Android"
+  bio: "Desenvolvedora Android, apaixonada por tecnologia, palestrante e incentivadora da comunidade. "
+  thumbnailUrl: PaulaRosa.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/_paulacr" }
