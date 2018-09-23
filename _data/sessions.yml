@@ -92,6 +92,16 @@
   speakers: [006]
   complexity: Intermediário
 
+
+# Vinicius Sossella
+-
+  id: 901
+  title: "A new hope with Flutter!"
+  description: "Nesta apresentação vamos falar um pouco sobre a história do Flutter, porque esta plataforma está conquistado a atenção de devs ao redor do mundo, arquitetura reativa, testes e CI/CD."
+  subtype: presentation
+  speakers: [007]
+  complexity: Intermediário
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"

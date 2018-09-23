@@ -79,4 +79,19 @@
   thumbnailUrl: DiegoSantos.jpg
   rockstar: false
   social:
-    - { name: "", link: "https://www.linkedin.com/in/diegogsantos/" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/diegogsantos/" }
+
+# Vinicius Sossella
+-
+  id: 007
+  name: "Vinicius"
+  surname: "Sossella"
+  company: "Thoughtworks"
+  title: "Dev Mobile/Consultor"
+  bio: "Vinícius Sossella é consultor na ThoughtWorks Brasil. Um mero dev mobile entre tantos outros, que curte muito um código limpo e preza pela qualidade."
+  thumbnailUrl: ViniciusSossella.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/viniciussossella" }
+    - { name: "twitter", link: "https://twitter.com/vtsossella" }
+
