@@ -67,3 +67,16 @@
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/haldny-santos-49466334" }
+
+# Diego Santos
+-
+  id: 006
+  name: "Diego Gonçalves"
+  surname: "Santos"
+  company: "Dextra"
+  title: "Desenvolvedor"
+  bio: "Atualmente atuo na Dextra Sistemas em projetos Mobile, web e para smart Tvs. Trabalho na área de desenvolvimento há mais de 5 anos. Formado em Tecnologia em Automação Industrial pelo Instituto Federal de Educação Ciência e Tecnologia e especializado em Tecnologia da Informação pelo Red River College (Canadá) onde fui escolhido e certificado como um dos melhores alunos do curso."
+  thumbnailUrl: DiegoSantos.jpg
+  rockstar: false
+  social:
+    - { name: "", link: "https://www.linkedin.com/in/diegogsantos/" }

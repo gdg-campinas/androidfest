@@ -83,6 +83,15 @@
   speakers: [005]
   complexity: Básico
 
+# Diego Santos
+-
+  id: 801
+  title: "Programação assincrona utilizando Coroutines"
+  description: "O desenvolvimento de aplicações Android comumente exigem a criação de chamadas assíncronas, que podem acabar gerando diversos problemas como por exemplo o famigerado callback hell. As Coroutines oferecem uma maneira de escrever códigos assíncronos de forma sequencial em uma co-rotina,  possibilitando um código mais compacto, fácil de gerenciar e alterar, além de gerar as chamadas lightweight threads, muito mais performáticas que as threads comuns. Nessa palestra vamos ver as principais features do Coroutines que podem resolver esse tipo de problema."
+  subtype: presentation
+  speakers: [006]
+  complexity: Intermediário
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"
