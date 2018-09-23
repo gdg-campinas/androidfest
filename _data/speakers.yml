@@ -95,3 +95,15 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/viniciussossella" }
     - { name: "twitter", link: "https://twitter.com/vtsossella" }
 
+# Paulo Sato
+-
+  id: 008
+  name: "Paulo"
+  surname: "Sato"
+  company: "CI&T"
+  title: "Engenheiro de Software Sr"
+  bio: "Eu trabalho com desenvolvimento Android à 9 anos e atualmente trabalho na Ci&T. Gosto muito de aprender coisas novas e sou um fomentador de MVVM no Android."
+  thumbnailUrl: PauloSato.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/paulovsato/" }

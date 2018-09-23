@@ -102,6 +102,15 @@
   speakers: [007]
   complexity: Intermediário
 
+# Paulo Sato
+-
+  id: 1001
+  title: "Troquei RxJava por corotinas. Por que você deveria fazer o mesmo"
+  description: "Rxjava é um míssil, e a maioria dos apps não utilizam nem metade do seu poder de fogo. Vamos ver como e por que trocar por corotinas."
+  subtype: presentation
+  speakers: [008]
+  complexity: Avançado
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"
