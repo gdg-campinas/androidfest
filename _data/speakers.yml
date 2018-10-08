@@ -1,17 +1,3 @@
-# Douglas Drumond
-- 
-  id: 001
-  name: "Douglas"
-  surname: "Drumond"
-  company: "Pixeon"
-  title: "Mobile Tech Lead & Coordinator"
-  bio: "Bacharel em Ciência da Computação pela Unicamp e líder técnico/coordenador de mobile na Pixeon. Trabalha com Android desde 2010, mas já teve experiência variada, de sistemas desktop a web, em empresas de diversos portes, desde startups de 3 funcionários, inclusive já tendo fundado e fechado a própria startup, a empresas maiores como Movile e IBM. Adora o ambiente dinâmico de startups e triunfa nele. Quando não está com uma câmera na mão, está lendo alguma coisa nerd."
-  thumbnailUrl: DouglasDrummond.jpg
-  rockstar: true
-  social: 
-    - { name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/" }
-    - { name: "twitter", link: "https://twitter.com/douglasdrumz" }
-
 # Nelson Glauber de Vasconcelos Leal
 -
   id: 002
@@ -107,3 +93,165 @@
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/paulovsato/" }
+
+# Vinicius Suzuki
+-
+  id: 009
+  name: "Vinicius Hisao"
+  surname: "Suzuki"
+  company: "HP"
+  title: "Senior Android Dev Lead"
+  bio: "Atua como desenvolvedor mobile há mais de 10 anos, Líder técnico Android na HP, trabalhou em vários aplicativos de impacto no mercado, alguns com milhões de downloads. Também já atuou em grandes players mobile como Motorola, Samsung e Gameloft."
+  thumbnailUrl: ViniciusSuzuki.jpg
+  rockstar: false
+  social: []
+
+# Filipe Nunes
+-
+  id: 010
+  name: "Filipe"
+  surname: "Nunes"
+  company: "Let'sGo"
+  title: "CTO&Founder"
+  bio: "Sou desenvolvedor desde os 14 anos.Formando em sistemas. Fundador da Let's Go, desenvolvedor full stack. Organizador do GDG Porto Alegre, líder do programa \"Jam\" da google. Evangelista do open source, envolvido em projetos como FISL e HacktoberFest Palestrante em escolas técnicas, universidades e eventos como Google IO Extend, TDCs e GDGs. Passei por grandes projetos e empresas como IBM, SAP dentre outras. Mais de 15 projetos públicos e em execução."
+  thumbnailUrl: FilipeNunes.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/filipe-nunes-185a1278/" }
+    - { name: "twitter", link: "https://twitter.com/FilipeFNunes" }
+
+# Sthefane Soares
+-
+  id: 011
+  name: "Sthefane"
+  surname: "Soares"
+  company: "FortPay SA"
+  title: "Desenvolvedora/Coordenadora de Desenvolvimento de Apps"
+  bio: "Desenvolvedora/Coordenadora desenvolvimento de aplicativos na FortPay, apaixonada por programação, Colaboradora do WomakersCode, Integrante do Computação com Mulheres, entusiasta do Software Livre e professora no YouTube nas horas vagas."
+  thumbnailUrl: SthefaneSoares.jpg
+  rockstar: true
+  social:
+    - { name: "linkedin" ,link: "https://www.linkedin.com/in/sthefane-camilo-soares-da-silva-49237985/" }
+    - { name: "youtube" ,link: "https://www.youtube.com/user/vidaprogramacao/videos" }
+    - { name: "site" ,link: "https://www.udemy.com/user/sthefane-camilo-soares-da-silva/" }
+
+# Italo Santana
+-
+  id: 012
+  name: "Italo"
+  surname: "Santana"
+  company: "Stone Pagamentos"
+  title: "Android Developer"
+  bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos durante os mais de 8 anos como Developer Android. Inovar faz parte de seu DNA."
+  thumbnailUrl: ItaloSantana.jpg
+  rockstar: false
+  social:
+    - { name: "twitter", link: "https://twitter.com/italo_MSS" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/italo-marcel-2a469092/" }
+
+# William Gouvea
+-
+  id: 013
+  name: "William"
+  surname: "Gouvea"
+  company: "TV Globo - Globoplay"
+  title: "Android Lead / Senior Researcher"
+  bio: "Pesquisador e Líder de desenvolvimento Android no Globoplay. "
+  thumbnailUrl: WilliamGouvea.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "linkedin.com/in/williamgouvea" }
+
+# Fernando Pinho
+-
+  id: 014
+  name: "Fernando"
+  surname: "Pinho"
+  company: "Globo.com"
+  title: "Especialista em desenvolvimento móvel"
+  bio: "Especialista em desenvolvimento móvel (Android e iOS) na Globo.com . 
+Formado em Engenharia de Computação pela UNICAMP, com 20 anos de experiência como desenvolvedor, já teve contato com diversas áreas e tecnologias. Atua no desenvolvimento móvel desde 2005."
+  thumbnailUrl: FernandoPinho.jpg
+  rockstar: false
+  social: []
+
+# Tomaz Silva
+-
+  id: 015
+  name: "Tomaz"
+  surname: "da Silva"
+  company: "GetNet/Santander"
+  title: "Especialista Mobile"
+  bio: "Bacharel em Ciências da Computação pela UFRGS com 8 anos de experiência em desenvolvimento, desde 2011 trabalhando com desenvolvimento mobile. Entusiasta de metodologias ágeis."
+  thumbnailUrl: TomazSilva.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/tomaz-rocha-da-silva-7747aa49/" }
+
+# Robert Melo
+-
+  id: 016
+  name: "Robert"
+  surname: "Melo"
+  company: "Venturus/Motorola"
+  title: "Engenheiro de Software"
+  bio: "Robert Melo é Engenheiro de Internacionalização na Motorola, com mais de três anos de experiência em Internacionalização e Localização de aplicações e sistema Android.
+Antes de liderar a área de Internacionalização na Motorola, atuou no desenvolvimento de um conjunto de ferramentas focadas nas experiências de Automação de Testes e Globalização de softwares Android. Foi engenheiro de Sistemas no C.E.S.A.R por quatro anos, participando no desenvolvimento de diversos projetos de softwares nas mais variadas tecnologias."
+  thumbnailUrl: RobertMelo.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://linkedin.com/in/robertgmelo" }
+
+# Leandro Ferreira
+-
+  id: 017
+  name: "Leandro"
+  surname: "Ferreira"
+  company: "Nubank"
+  title: "Software Engineer"
+  bio: "Engenheiro de software trabalhando há cinco anos com desenvolvimento mobile e muito interessado em programação funcional. "
+  thumbnailUrl: LeandroFerreira.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/leandrobfe/" }
+
+# Lahis Almeida
+-
+  id: 018
+  name: "Lahis Gomes"
+  surname: "de Almeida"
+  company: "Unicamp"
+  title: "Mestranda no Instituto de Computação da Unicamp"
+  bio: "Engenheira de Computação formada pela UEA e Técnica em Eletrônica formada pelo IFAM. Atualmente, é estudante de Mestrado no Instituto de Computação da Unicamp, desenvolvendo pesquisas nas áreas de Internet das Coisas e Inteligência Artificial. Tem experiência com Sistemas Embarcados, Internet das Coisas, Visão Computacional e Desenvolvimento de Jogos."
+  thumbnailUrl: LahisAlmeida.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/lahis-almeida-5805094b/" }
+    - { name: "instagram", link: "https://instagram.com/wasp.projects" }
+
+# Joao Ventura
+-
+  id: 019
+  name: "João Paulo"
+  surname: "Ventura"
+  company: "SmartMEI"
+  title: "Software Engineer"
+  bio: "Um profissional auto-motivado e independente com excelentes recursos e habilidades de desenvolvimento orientado a dados."
+  thumbnailUrl: JoaoVentura.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://linkedin.com/in/jpventura" }
+
+# Douglas Drumond
+- 
+  id: 001
+  name: "Douglas"
+  surname: "Drumond"
+  company: "Pixeon"
+  title: "Mobile Tech Lead & Coordinator"
+  bio: "Bacharel em Ciência da Computação pela Unicamp e líder técnico/coordenador de mobile na Pixeon. Trabalha com Android desde 2010, mas já teve experiência variada, de sistemas desktop a web, em empresas de diversos portes, desde startups de 3 funcionários, inclusive já tendo fundado e fechado a própria startup, a empresas maiores como Movile e IBM. Adora o ambiente dinâmico de startups e triunfa nele. Quando não está com uma câmera na mão, está lendo alguma coisa nerd."
+  thumbnailUrl: DouglasDrummond.jpg
+  rockstar: false
+  social: 
+    - { name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/" }
+    - { name: "twitter", link: "https://twitter.com/douglasdrumz" }

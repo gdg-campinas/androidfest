@@ -11,35 +11,20 @@
   service: true
   description: ""
 -
-  id: 300
-  title: "Keynote"
-  place: ""
-  subtype: keynote
-  description: ""
-  speakers: []
--
   id: 600
   title: "Almoço"
   place: ""
   service: true
   description: ""
 -
-  id: 900
+  id: 1100
   title: "Coffee"
   place: ""
   service: true
   description: "Momento para networking"
-
 -
-  id: 1200
-  title: "Keynote de Fechamento"
-  place: ""
-  subtype: keynote
-  description: ""
-  speakers: []
--
-  id: 1300
-  title: "Encerramento"
+  id: 1500
+  title: "Encerramento + Sorteios"
   place: ""
   service: true
   description: ""
@@ -50,24 +35,72 @@
   place: ""
   description: "A definir"
 
+# round table - early
+-
+  id: 301
+  title: "Mesa Redonda"
+  description: "Como entrar no universo Android? Conseguir o 1º emprego. Desafios iniciais."
+  subtype: presentation
+  speakers: []
+  complexity: Todos
+
+# round table - next
+-
+  id: 302
+  title: "Mesage Redonda"
+  description: "Sou especialista e agora?  Quais as oportunidades que tenho de crescimento? Trabalhar fora do país? Gerencia?"
+  subtype: presentation
+  speakers: []
+  complexity: Todos
+
+# Vinicius Suzuki
 -
   id: 401
-  title: "Arquitetando seu aplicativo Android com o Jetpack"
-  description: "A cada dia a complexidade dos aplicativos mobile vêm crescendo e para atender essa demanda é essencial criar um software de qualidade, com uma arquitetura confiável, escalável e ao mesmo tempo flexível o suficiente para adicionar novas funcionalidades. O Jetpack é um conjunto de bibliotecas Android que ajudam o desenvolvedor a seguir as boas práticas do desenvolvimento de software, removendo o boilerplate de código e simplificando tarefas complexas. Nessa apresentação veremos as principais bibliotecas do Jetpack e como elas podem funcionar juntas para construir aplicativos organizados, eficientes e confiáveis."
+  title: "Como publicar um apk bugado"
+  description: "Não existe código perfeito, por mais que você seja cuidadoso, um dia, você vai publicar um apk com algum bug e quando isso acontecer, o que vai fazer? Neste talk, levantaremos pontos de como detectar bug em produção, quais as ações necessárias para minimizar o impacto no usuário e como aprender com o erro. Este talk foi desenvolvido baseado em nossa experiência na aplicação “HP Sprocket” com atualmente +500k downloads."
   subtype: presentation
-  speakers: [002]
-  complexity: Básico
+  speakers: [009]
+  complexity: Intermediário
 
+# Paulo Sato
+-
+  id: 402
+  title: "Troquei RxJava por corotinas. Por que você deveria fazer o mesmo"
+  description: "Rxjava é um míssil, e a maioria dos apps não utilizam nem metade do seu poder de fogo. Vamos ver como e por que trocar por corotinas."
+  subtype: presentation
+  speakers: [008]
+  complexity: Avançado
+
+# Filipe Nunes
 -
   id: 501
+  title: "A mágia do Firebase em seus Apps"
+  description: "Já imaginou desenvolver um aplicativo em um dia com segurança, notification, push , analitycs, teste, storage de imagem, autenticação com redes sociais realtime, offline e muito mais.... E gratuito. Sim isto é possível e vou dividir estes conhecimentos e experiencias com vocês."
+  subtype: presentation
+  speakers: [010]
+  complexity: Todos
+
+# Bira
+-
+  id: 502
   title: "Kotlin - Advanced Tricks"
   description: "Nessa palestra, nós vamos explorar funcionalidades da linguagem Kotlin que você simplesmente não imaginava que eram possíveis e validar como elas podem nos ser úteis no dia-a-dia!"
   subtype: presentation
   speakers: [003]
   complexity: Avançado
 
+# Nelson Glauber de Vasconcelos Leal
 -
-  id: 601
+  id: 701
+  title: "Arquitetando seu aplicativo Android com o Jetpack"
+  description: "A cada dia a complexidade dos aplicativos mobile vêm crescendo e para atender essa demanda é essencial criar um software de qualidade, com uma arquitetura confiável, escalável e ao mesmo tempo flexível o suficiente para adicionar novas funcionalidades. O Jetpack é um conjunto de bibliotecas Android que ajudam o desenvolvedor a seguir as boas práticas do desenvolvimento de software, removendo o boilerplate de código e simplificando tarefas complexas. Nessa apresentação veremos as principais bibliotecas do Jetpack e como elas podem funcionar juntas para construir aplicativos organizados, eficientes e confiáveis."
+  subtype: presentation
+  speakers: [002]
+  complexity: Básico
+
+# Felipe Pedroso
+-
+  id: 702
   title: "Machine Learning em Apps Android com ML Kit"
   description: "Nesta palestra iremos falar sobre o ML Kit, um SDK de Machine Learning lançado pelo Google durante o Google IO 18 e que promete facilitar que apps Android utilizem recursos como reconhecimento de imagens, respostas automáticas e modelos Tensorflow customizados. Vamos discutir as características do SDK e mostrar como ele pode ser integrado ao código de um app Android."
   subtype: presentation
@@ -76,40 +109,119 @@
 
 # Haldny Santos
 -
-  id: 701
+  id: 801
   title: "WorkManager  —  O que é?"
   description: "Quem assistir essa talk conseguirá implementar tarefas em background utilizando a API do WorkManager, encadeando tarefas e escrevendo códigos mais fáceis de dar manutenção."
   subtype: presentation
   speakers: [005]
   complexity: Básico
 
+# Sthefane Soares
+-
+  id: 802
+  title: "TensorFlow em seus Aplicativos Android"
+  description: "Aprenda a usar o TensorFlow em seus Apps, para implementar um modelo de aprendizado de máquina personalizado para um conjunto de dados personalizado."
+  subtype: presentation
+  speakers: [011]
+  complexity: Básico
+
+# Italo
+-
+  id: 901
+  title: "Projetando aplicativos para lidar com conexões lentas."
+  description: "Desenvolver o seu aplicativo para lidar com a velocidade lenta da rede é uma tarefa importante a ser considerada.
+
+Veja um conjunto de boas práticas e técnicas para  trabalhar com uma conexão lenta e oferecer aos usuários uma ótima experiência, independentemente da localidade ou da rede."
+  subtype: presentation
+  speakers: [012]
+  complexity: Básico
+
+# William Gouvea
+-
+  id: 902
+  title: "Novas formas de entregar sua Feature no Android"
+  description: "Como App Bundles  e Instant Apps mudam a forma de pensar no desenvolvimento e na entrega no Android"
+  subtype: presentation
+  speakers: [013]
+  complexity: Intermediário
+
 # Diego Santos
 -
-  id: 801
+  id: 1001
   title: "Programação assincrona utilizando Coroutines"
   description: "O desenvolvimento de aplicações Android comumente exigem a criação de chamadas assíncronas, que podem acabar gerando diversos problemas como por exemplo o famigerado callback hell. As Coroutines oferecem uma maneira de escrever códigos assíncronos de forma sequencial em uma co-rotina,  possibilitando um código mais compacto, fácil de gerenciar e alterar, além de gerar as chamadas lightweight threads, muito mais performáticas que as threads comuns. Nessa palestra vamos ver as principais features do Coroutines que podem resolver esse tipo de problema."
   subtype: presentation
   speakers: [006]
   complexity: Intermediário
 
+# Fernando Pinho
+-
+  id: 1002
+  title: "Por dentro do processamento Assíncrono do Android: Entendendo o Event Loop"
+  description: "Processamento assíncrono é presente no cotidiano de um desenvolvedor para melhorar a experiências do usuário e evitar problemas. No Android são usadas AsyncTask, Handlers e várias outras alternativas para sair da UI Thread evitando ao máximos os ANRs (Application Not Responding). Mas porque devemos usar essas classes? O que geram as ANRs? Como funciona a UI Thread? Porque grandes processamentos travam ela? Em quais casos devemos usar cada uma dessas classes?
+
+Vamos falar sobre o uso recomendado de cada uma dessas classes, e como o Android lida com elas internamente. Também falaremos sobre o modelo de threads usadas nas apps Android e como as AsyncTasks e Handlers se inserem neste contexto."
+  subtype: presentation
+  speakers: [014]
+  complexity: Avançado
+
+# Tomaz da Silva
+-
+  id: 1201
+  title: "Slices e Actions - Tudo o que você precisa saber para começar a usar no seu app"
+  description: "No Google IO deste ano foi apresentado uma nova forma de interação dos app os \"Slices\". 
+Slices fazem parte do Jetpack e são uma forma de apresentar conteúdo interativo e dinâmico nas buscas realizadas pelos usuário no seu dispositivo.
+Nesta apresentação mostraremos passo a passo usar os Slices e tornar seu aplicativo ainda mais interessante e relevante para os usuários."
+  subtype: presentation
+  speakers: [015]
+  complexity: Básico
 
 # Vinicius Sossella
 -
-  id: 901
+  id: 1202
   title: "A new hope with Flutter!"
   description: "Nesta apresentação vamos falar um pouco sobre a história do Flutter, porque esta plataforma está conquistado a atenção de devs ao redor do mundo, arquitetura reativa, testes e CI/CD."
   subtype: presentation
   speakers: [007]
   complexity: Intermediário
 
-# Paulo Sato
+# Robert Melo
 -
-  id: 1001
-  title: "Troquei RxJava por corotinas. Por que você deveria fazer o mesmo"
-  description: "Rxjava é um míssil, e a maioria dos apps não utilizam nem metade do seu poder de fogo. Vamos ver como e por que trocar por corotinas."
+  id: 1301
+  title: "Android Internationalization: como projetar uma aplicação em escala global"
+  description: "Desenvolvedores e startups entenderão tópicos essenciais no design de aplicações Android, focados na vasta diferença entre idiomas e culturas em todo o mundo.
+Após passar todos os insights e boas práticas (do's and don'ts) advindas da experiência no desenvolvimento de aplicações globais, o principal objetivo será garantir que seu projeto/aplicação será facilmente entendível e transparente para um brasileiro numa cidade do interior de Pernambuco, ou para um chinês que vive em Pequim e até mesmo para sírios, israelenses, árabes. 
+Não importa o idioma nem de onde seus usuários falam, sua aplicação será capaz de lidar com as inúmeras diferenças culturais."
   subtype: presentation
-  speakers: [008]
-  complexity: Avançado
+  speakers: [016]
+  complexity: Intermediário
+
+# Leandro Ferreira
+-
+  id: 1302
+  title: "Build e release no Nubank"
+  description: "Palestra falando como o aplicativo do Nubank cresceu o que teve que ser feito para que o processo de desenvolvimento se tornasse viável e a junção de todas nossas partes fosse possível, bem como rodar grandes suítes de testes e testar tecnologias novas para nosso build."
+  subtype: presentation
+  speakers: [017]
+  complexity: Todos
+
+# Lahis
+-
+  id: 1401
+  title: "Node-RED e Android no desenvolvimento de Aplicações IoT"
+  description: "Entusiastas e especialistas em Internet das Coisas certamente impulsionam seus projetos quando passam a utilizar o ambiente de programação Node-RED. Essa ferramenta conecta diversos dispositivos de hardware, APIs e serviços online; tornando-se, um verdadeiro facilitador para desenvolvedores IoT. Esta palestra tem como objetivo apresentar como é feita a integração do Node-RED com a plataforma Android por meio de diversos casos de estudo e aplicações IoT."
+  subtype: presentation
+  speakers: [018]
+  complexity: Todos
+
+# Joao Paulo Ventura
+-
+  id: 1402
+  title: "Razões para (não) usar Firebase"
+  description: "Informações essenciais sobre como arquitetar sua aplicação utilizando Firebase, considerando migrações. limitações de arquitetura e escalabilidade perceptíveis apenas no futuro (não tão) distante."
+  subtype: presentation
+  speakers: [019]
+  complexity: Intermediário
 
 # -
 #   id: 002
