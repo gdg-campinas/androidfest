@@ -97,8 +97,8 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Destaques"
-rockstarSpeakersButtonText: "Seja um Palestrante"
-rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
+rockstarSpeakersButtonText: "Veja todos os palestrantes"
+# rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
 
 # Location Block
 locationBlockTitle: "Localização"
@@ -173,10 +173,10 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "30/08/2018T00:00"
   validThrough: "01/10/2018T23:59"
-  # soldOut: true
-  # soldOutText: "Esgotado"
+  soldOut: true
+  soldOutText: "Esgotado"
   # disabled: true
-  featured: true
+  # featured: true
  -
   name: "Late Bird"
   price: "300,00"
@@ -188,8 +188,8 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "02/10/2018T00:00"
   validThrough: "17/10/2018T23:59"
-  disabled: true
-  # featured: true
+  # disabled: true
+  featured: true
   # soldOut: true
   # soldOutText: "Esgotado"
 
@@ -206,8 +206,8 @@ ticketsOffers:
   validThrough: "01/10/2018T23:59"
   # disabled: true
   # featured: true
-  # soldOut: true
-  # soldOutText: "Esgotado"
+  soldOut: true
+  soldOutText: "Esgotado"
 
 # Footer
 socialLinks:
