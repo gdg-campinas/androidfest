@@ -94,18 +94,6 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/paulovsato/" }
 
-# Vinicius Suzuki
--
-  id: 009
-  name: "Vinicius Hisao"
-  surname: "Suzuki"
-  company: "HP"
-  title: "Senior Android Dev Lead"
-  bio: "Atua como desenvolvedor mobile há mais de 10 anos, Líder técnico Android na HP, trabalhou em vários aplicativos de impacto no mercado, alguns com milhões de downloads. Também já atuou em grandes players mobile como Motorola, Samsung e Gameloft."
-  thumbnailUrl: ViniciusSuzuki.jpg
-  rockstar: false
-  social: []
-
 # Filipe Nunes
 -
   id: 010
@@ -119,21 +107,6 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/filipe-nunes-185a1278/" }
     - { name: "twitter", link: "https://twitter.com/FilipeFNunes" }
-
-# Sthefane Soares
--
-  id: 011
-  name: "Sthefane"
-  surname: "Soares"
-  company: "FortPay SA"
-  title: "Desenvolvedora/Coordenadora de Desenvolvimento de Apps"
-  bio: "Desenvolvedora/Coordenadora desenvolvimento de aplicativos na FortPay, apaixonada por programação, Colaboradora do WomakersCode, Integrante do Computação com Mulheres, entusiasta do Software Livre e professora no YouTube nas horas vagas."
-  thumbnailUrl: SthefaneSoares.jpg
-  rockstar: true
-  social:
-    - { name: "linkedin" ,link: "https://www.linkedin.com/in/sthefane-camilo-soares-da-silva-49237985/" }
-    - { name: "youtube" ,link: "https://www.youtube.com/user/vidaprogramacao/videos" }
-    - { name: "site" ,link: "https://www.udemy.com/user/sthefane-camilo-soares-da-silva/" }
 
 # Italo Santana
 -

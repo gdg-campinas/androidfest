@@ -53,15 +53,6 @@
   speakers: []
   complexity: Todos
 
-# Vinicius Suzuki
--
-  id: 401
-  title: "Como publicar um apk bugado"
-  description: "Não existe código perfeito, por mais que você seja cuidadoso, um dia, você vai publicar um apk com algum bug e quando isso acontecer, o que vai fazer? Neste talk, levantaremos pontos de como detectar bug em produção, quais as ações necessárias para minimizar o impacto no usuário e como aprender com o erro. Este talk foi desenvolvido baseado em nossa experiência na aplicação “HP Sprocket” com atualmente +500k downloads."
-  subtype: presentation
-  speakers: [009]
-  complexity: Intermediário
-
 # Paulo Sato
 -
   id: 402
@@ -114,15 +105,6 @@
   description: "Quem assistir essa talk conseguirá implementar tarefas em background utilizando a API do WorkManager, encadeando tarefas e escrevendo códigos mais fáceis de dar manutenção."
   subtype: presentation
   speakers: [005]
-  complexity: Básico
-
-# Sthefane Soares
--
-  id: 802
-  title: "TensorFlow em seus Aplicativos Android"
-  description: "Aprenda a usar o TensorFlow em seus Apps, para implementar um modelo de aprendizado de máquina personalizado para um conjunto de dados personalizado."
-  subtype: presentation
-  speakers: [011]
   complexity: Básico
 
 # Italo
