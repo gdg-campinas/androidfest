@@ -170,7 +170,7 @@ Antes de liderar a área de Internacionalização na Motorola, atuou no desenvol
   title: "Mestranda no Instituto de Computação da Unicamp"
   bio: "Engenheira de Computação formada pela UEA e Técnica em Eletrônica formada pelo IFAM. Atualmente, é estudante de Mestrado no Instituto de Computação da Unicamp, desenvolvendo pesquisas nas áreas de Internet das Coisas e Inteligência Artificial. Tem experiência com Sistemas Embarcados, Internet das Coisas, Visão Computacional e Desenvolvimento de Jogos."
   thumbnailUrl: LahisAlmeida.jpg
-  rockstar: false
+  rockstar: true
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/lahis-almeida-5805094b/" }
     - { name: "instagram", link: "https://instagram.com/wasp.projects" }
