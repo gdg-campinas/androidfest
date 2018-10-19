@@ -62,15 +62,6 @@
   speakers: [008]
   complexity: Avançado
 
-# Filipe Nunes
--
-  id: 501
-  title: "A mágia do Firebase em seus Apps"
-  description: "Já imaginou desenvolver um aplicativo em um dia com segurança, notification, push , analitycs, teste, storage de imagem, autenticação com redes sociais realtime, offline e muito mais.... E gratuito. Sim isto é possível e vou dividir estes conhecimentos e experiencias com vocês."
-  subtype: presentation
-  speakers: [010]
-  complexity: Todos
-
 # Bira
 -
   id: 502
@@ -117,15 +108,6 @@ Veja um conjunto de boas práticas e técnicas para  trabalhar com uma conexão 
   subtype: presentation
   speakers: [012]
   complexity: Básico
-
-# William Gouvea
--
-  id: 902
-  title: "Novas formas de entregar sua Feature no Android"
-  description: "Como App Bundles  e Instant Apps mudam a forma de pensar no desenvolvimento e na entrega no Android"
-  subtype: presentation
-  speakers: [013]
-  complexity: Intermediário
 
 # Diego Santos
 -

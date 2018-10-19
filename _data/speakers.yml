@@ -94,20 +94,6 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/paulovsato/" }
 
-# Filipe Nunes
--
-  id: 010
-  name: "Filipe"
-  surname: "Nunes"
-  company: "Let'sGo"
-  title: "CTO&Founder"
-  bio: "Sou desenvolvedor desde os 14 anos.Formando em sistemas. Fundador da Let's Go, desenvolvedor full stack. Organizador do GDG Porto Alegre, líder do programa \"Jam\" da google. Evangelista do open source, envolvido em projetos como FISL e HacktoberFest Palestrante em escolas técnicas, universidades e eventos como Google IO Extend, TDCs e GDGs. Passei por grandes projetos e empresas como IBM, SAP dentre outras. Mais de 15 projetos públicos e em execução."
-  thumbnailUrl: FilipeNunes.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/filipe-nunes-185a1278/" }
-    - { name: "twitter", link: "https://twitter.com/FilipeFNunes" }
-
 # Italo Santana
 -
   id: 012
@@ -121,19 +107,6 @@
   social:
     - { name: "twitter", link: "https://twitter.com/italo_MSS" }
     - { name: "linkedin", link: "https://www.linkedin.com/in/italo-marcel-2a469092/" }
-
-# William Gouvea
--
-  id: 013
-  name: "William"
-  surname: "Gouvea"
-  company: "TV Globo - Globoplay"
-  title: "Android Lead / Senior Researcher"
-  bio: "Pesquisador e Líder de desenvolvimento Android no Globoplay. "
-  thumbnailUrl: WilliamGouvea.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "linkedin.com/in/williamgouvea" }
 
 # Fernando Pinho
 -
