@@ -50,3 +50,19 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/paulovsato/" }
   sessions:
     - title: "14:35 às 15:15"
+
+# Fernando Pinho
+-
+  id: 014
+  name: "Fernando"
+  surname: "Pinho"
+  company: "Globo.com"
+  title: "Especialista em desenvolvimento móvel"
+  bio: "Especialista em desenvolvimento móvel (Android e iOS) na Globo.com . 
+Formado em Engenharia de Computação pela UNICAMP, com 20 anos de experiência como desenvolvedor, já teve contato com diversas áreas e tecnologias. Atua no desenvolvimento móvel desde 2005."
+  thumbnailUrl: FernandoPinho.jpg
+  rockstar: false
+  social: []
+  sessions:
+    - title: "10:20 às 11:20"
+    - title: "15:15 às 16:00"
