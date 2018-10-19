@@ -167,7 +167,7 @@ Vamos falar sobre o uso recomendado de cada uma dessas classes, e como o Android
   title: "Mesa Redonda"
   description: "Como entrar no universo Android? Conseguir o 1º emprego. Desafios iniciais."
   subtype: presentation
-  speakers: [018, 006, 004, 008, 002, 012]
+  speakers: []
   complexity: Todos
 
 # Leandro Ferreira
