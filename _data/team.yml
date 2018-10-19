@@ -50,7 +50,8 @@ support:
     title: "Colaborador"
     thumbnailUrl: DouglasDrummond.jpg
     social: 
-      - {name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/douglasdrumond/" }
+    - { name: "twitter", link: "https://twitter.com/douglasdrumz" }
   -
     id: 6
     name: Ramon
