@@ -35,16 +35,16 @@
   place: ""
   description: "A definir"
 
-# Italo
+# Robert Melo
 -
   id: 301
-  title: "Projetando aplicativos para lidar com conexões lentas."
-  description: "Desenvolver o seu aplicativo para lidar com a velocidade lenta da rede é uma tarefa importante a ser considerada.
-
-Veja um conjunto de boas práticas e técnicas para  trabalhar com uma conexão lenta e oferecer aos usuários uma ótima experiência, independentemente da localidade ou da rede."
+  title: "Android Internationalization: como projetar uma aplicação em escala global"
+  description: "Desenvolvedores e startups entenderão tópicos essenciais no design de aplicações Android, focados na vasta diferença entre idiomas e culturas em todo o mundo.
+Após passar todos os insights e boas práticas (do's and don'ts) advindas da experiência no desenvolvimento de aplicações globais, o principal objetivo será garantir que seu projeto/aplicação será facilmente entendível e transparente para um brasileiro numa cidade do interior de Pernambuco, ou para um chinês que vive em Pequim e até mesmo para sírios, israelenses, árabes. 
+Não importa o idioma nem de onde seus usuários falam, sua aplicação será capaz de lidar com as inúmeras diferenças culturais."
   subtype: presentation
-  speakers: [012]
-  complexity: Básico
+  speakers: [016]
+  complexity: Intermediário
 
 # Bira
 -
@@ -104,16 +104,17 @@ Nesta apresentação mostraremos passo a passo usar os Slices e tornar seu aplic
   speakers: [004]
   complexity: Intermediário
 
-# Robert Melo
+# Italo
 -
   id: 801
-  title: "Android Internationalization: como projetar uma aplicação em escala global"
-  description: "Desenvolvedores e startups entenderão tópicos essenciais no design de aplicações Android, focados na vasta diferença entre idiomas e culturas em todo o mundo.
-Após passar todos os insights e boas práticas (do's and don'ts) advindas da experiência no desenvolvimento de aplicações globais, o principal objetivo será garantir que seu projeto/aplicação será facilmente entendível e transparente para um brasileiro numa cidade do interior de Pernambuco, ou para um chinês que vive em Pequim e até mesmo para sírios, israelenses, árabes. 
-Não importa o idioma nem de onde seus usuários falam, sua aplicação será capaz de lidar com as inúmeras diferenças culturais."
+  title: "Projetando aplicativos para lidar com conexões lentas."
+  description: "Desenvolver o seu aplicativo para lidar com a velocidade lenta da rede é uma tarefa importante a ser considerada.
+
+Veja um conjunto de boas práticas e técnicas para  trabalhar com uma conexão lenta e oferecer aos usuários uma ótima experiência, independentemente da localidade ou da rede."
   subtype: presentation
-  speakers: [016]
-  complexity: Intermediário
+  speakers: [012]
+  complexity: Básico
+
 
 # Paulo Sato
 -
