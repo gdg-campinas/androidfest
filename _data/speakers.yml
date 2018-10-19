@@ -8,6 +8,8 @@
   bio: "Nelson Glauber é mestre em Engenharia de Software pelo Centro de Estudos e Sistemas Avançados do Recife (CESAR) e trabalha com desenvolvimento de software desde 2002. Atua como engenheiro de software especializado em projetos mobile desde 2006, e com Android desde 2009. Também é professor de tecnologias móveis em cursos de extensão e pós-graduação. Em 2014, foi nomeado pelo Google como primeiro Developer Expert de Android da América Latina. É autor do livro \"Dominando o Android\" publicado pela Novatec."
   thumbnailUrl: NelsonGlauber.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/nglaubervasc/" }
     - { name: "twitter" , link: "https://twitter.com/nglauber" }
@@ -25,6 +27,8 @@
   bio: "Software Engineer. Curious guy. Messing with Android since 2010"
   thumbnailUrl: UbiratanSoares.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/ubiratanfsoares/" }
     - { name: "twitter" , link: "https://twitter.com/ubiratanfsoares" }
@@ -187,6 +191,19 @@ Antes de liderar a área de Internacionalização na Motorola, atuou no desenvol
   rockstar: false
   social:
     - { name: "linkedin", link: "https://linkedin.com/in/jpventura" }
+
+# Bernardo Teodosio
+-
+  id: 020
+  name: "Bernardo"
+  surname: "Teodosio"
+  company: "Wavy"
+  title: "Android Developer"
+  bio: "Desenvolvedor Android na Wavy há mais de dois anos e atualmente cursando Ciência da Computação na UNICAMP. É um evangelizador de Kotlin desde que começou a trabalhar com a linguagem em 2016, quando começou incentivando seus colegas de trabalho a utilizá-la e passou a divulgar a linguagem na comunidade da região através de palestras, artigos e lives. Entusiasta de Kotlin pela sua enxuta complexidade e inúmeras boas práticas de programação já inclusas na linguagem."
+  thumbnailUrl: BernardoTeodosio.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/berteodosio" }
 
 # Douglas Drumond
 - 
