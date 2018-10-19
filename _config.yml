@@ -57,6 +57,7 @@ navigationLinks:
  - {permalink: "/", text: "Principal"}
  - {permalink: "/schedule/", text: "Grade"}
  - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/mentors/", text: "Mentoria"} 
  - {permalink: "/team/", text: "Time"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com.br/e/androidfest-2018-tickets-48721933615", text: "Compre seu ingresso"}
